@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lifecyrcle-modal/static/css/main.cdd442b5.chunk.css",
+    "main.js": "/lifecyrcle-modal/static/js/main.6db5b172.chunk.js",
+    "main.js.map": "/lifecyrcle-modal/static/js/main.6db5b172.chunk.js.map",
+    "runtime-main.js": "/lifecyrcle-modal/static/js/runtime-main.5cff9f4d.js",
+    "runtime-main.js.map": "/lifecyrcle-modal/static/js/runtime-main.5cff9f4d.js.map",
+    "static/js/2.9cd5260e.chunk.js": "/lifecyrcle-modal/static/js/2.9cd5260e.chunk.js",
+    "static/js/2.9cd5260e.chunk.js.map": "/lifecyrcle-modal/static/js/2.9cd5260e.chunk.js.map",
+    "index.html": "/lifecyrcle-modal/index.html",
+    "precache-manifest.330337d2a24f1374c821822ddeb5f2fb.js": "/lifecyrcle-modal/precache-manifest.330337d2a24f1374c821822ddeb5f2fb.js",
+    "service-worker.js": "/lifecyrcle-modal/service-worker.js",
+    "static/css/main.cdd442b5.chunk.css.map": "/lifecyrcle-modal/static/css/main.cdd442b5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cff9f4d.js",
+    "static/js/2.9cd5260e.chunk.js",
+    "static/css/main.cdd442b5.chunk.css",
+    "static/js/main.6db5b172.chunk.js"
+  ]
+}
